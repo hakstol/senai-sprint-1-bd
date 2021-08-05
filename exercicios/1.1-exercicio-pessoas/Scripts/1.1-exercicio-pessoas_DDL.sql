@@ -31,3 +31,7 @@ CREATE TABLE CNH(
  descricao CHAR(11) NOT NULL UNIQUE
 );
 GO 
+
+
+
+
